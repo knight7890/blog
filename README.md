@@ -3,17 +3,17 @@
 <br />
 // 遍历整个世界，只为找到你。
 <br />
-        foreach(let you in worlds){
+       >>>>foreach(let you in worlds){
 <br />        
-            //当我发现你是我的真爱时，
+         >>>>>>//当我发现你是我的真爱时，
 <br />            
-            if(you =="myLove")
+           >>>>>> if(you =="myLove")
 <br />            
-                //那么你就是我要找寻的人，我的妻子。
+               >>>>>> //那么你就是我要找寻的人，我的妻子。
 <br />                
-                myHeart["myWife"] = you;
+               >>>>>> myHeart["myWife"] = you;
 <br />                
-        }
+        >>}
 <br />        
         // 自定义一个变量，我们相爱的时间。
 <br />        
