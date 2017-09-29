@@ -39,9 +39,9 @@ if(you =="myLove")
 <br />            
 if(love < 0) break;
 </br>
-<tabel>
-      <tr>
-            <th>问世间情为何物</th>
-            <th>直叫人生死相许</th>
-      </tr>
-</table>
+</br>
+<h2>
+问世间情为何物| 直叫人生死相许 | 
+----|------|
+foo | foo  |  
+</h2>
