@@ -38,7 +38,10 @@ if(you =="myLove")
 <h3> 如若你不爱我，我将会等到时间的尽头，独自心醉 </h3>
 <br />            
 if(love < 0) break;
+</br>
 <tabel>
-      <th>问世间情为何物</th>
-      <th>直叫人生死相许</th>
+      <tr>
+            <th>问世间情为何物</th>
+            <th>直叫人生死相许</th>
+      </tr>
 </table>
