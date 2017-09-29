@@ -7,17 +7,17 @@
 <br />        
 <h3> 当我发现你是我的真爱时，<h3>
 <br />            
-         if(you =="myLove")
+if(you =="myLove")
 <br />            
 <h3> 那么你就是我要找寻的人，我的妻子。</h3>
 <br />                
-             myHeart["myWife"] = you;
+ myHeart["myWife"] = you;
 <br />                
         }
 <br />        
 <h3> 自定义一个变量，我们相爱的时间。</h3>
 <br />        
-        long lovetime;
+  long lovetime;
 <br />        
 <h3> 如若我们之间是真爱 <h3>
 <br />        
