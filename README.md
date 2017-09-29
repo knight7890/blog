@@ -5,7 +5,7 @@
 <br />
       foreach(let you in worlds){
 <br />        
-<h3> 当我发现你是我的真爱时，<h3>
+<h3> 当我发现你是我的真爱时，</h3>
 <br />            
 if(you =="myLove")
 <br />            
@@ -19,7 +19,7 @@ if(you =="myLove")
 <br />        
   long lovetime;
 <br />        
-<h3> 如若我们之间是真爱 <h3>
+<h3> 如若我们之间是真爱 </h3>
 <br />        
         if(love == true)
 <br />        
@@ -37,4 +37,5 @@ if(you =="myLove")
 <br />       
 <h3> 如若你不爱我，我将会等到时间的尽头，独自心醉 </h3>
 <br />            
-            if(love < 0) break;
+if(love < 0) break;
+
