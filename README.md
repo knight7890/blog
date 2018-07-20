@@ -40,4 +40,7 @@ if(you =="myLove")
 if(love < 0) break;
 </br>
 </br>
+wx : 乙 525602 平安 
+ding1077 gfsdnfsnnv 1351588hdcjdh 建设1077
 
+        for(lovetime = 1; lovetime>=1; lovetime++):
